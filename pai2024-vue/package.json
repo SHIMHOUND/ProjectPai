@@ -1,0 +1,24 @@
+{
+  "name": "pai2024-vue",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "dhtmlx-gantt": "^9.0.5",
+    "echarts": "^5.6.0",
+    "vue": "^3.4.29",
+    "vue-echarts": "^7.0.3",
+    "vue-router": "^4.5.0",
+    "vuetify": "^3.7.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}

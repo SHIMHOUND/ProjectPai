@@ -1,0 +1,5 @@
+{
+    "port": 8000,
+    "frontend": "./pai2024-vue/dist",
+    "dbUrl": "mongodb://localhost:27017/pai2024"
+}
